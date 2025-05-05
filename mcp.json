@@ -1,10 +1,9 @@
-{
   "mcpServers": {
     "unrealMCP": {
       "command": "uv",
       "args": [
         "--directory",
-        "absolute/path/to/this/repository/Python",
+        "C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/unreal-mcp/Python",
         "run",
         "unreal_mcp_server.py"
       ]
